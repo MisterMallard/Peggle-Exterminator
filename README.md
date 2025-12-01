@@ -35,5 +35,5 @@ elke keer een ball de grond raakt zegt in de console "hit!"
 ![2.1](gifs/Recording%202025-12-01%20103155.gif)
 
 # 2.2 Mikken, Schieten en Lijn Renderen
-als je drukt in op de linker muis knop dan wordt een lijn langzaam uigebreid en dat verskert de snelheid van een bal
+als je drukt in op de linker muis knop dan wordt een lijn langzaam uigebreid en dat verskert de snelheid van een bal.
 ![2.2](gifs/Recording%202025-12-01%20105059.gif)
