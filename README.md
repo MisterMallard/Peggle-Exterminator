@@ -32,5 +32,4 @@ Doel: krijg je entire Money Meter om een bonus te halen!
   
 # 2.1 Forces & Collision
 elke keer een ball de grond raakt zegt in de console "hit!"
-![2.1](../Peggle-Exterminator/gifs/Recording%202025-12-01%20103155.gif)
-    
+![2.1](gifs/Recording%202025-12-01%20103155.gif)
